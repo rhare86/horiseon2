@@ -7,7 +7,15 @@
 body {
     background-color: #d9dcd6;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
+p {
+    font-size: 16px;
+}
+/* Header & Nav Styles Start Here */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +48,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header & Nav Styles End Here */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Hero Styles Start Here*/
 section.hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,9 @@ section.hero {
     background-size: cover;
     background-position: center;
 }
+/* Hero Styles End Here */
 
+/* Content Styles Start Here */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -187,7 +190,9 @@ section.hero {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Content Styles End Here */
 
+/* Footer Styles Start Here */
 footer {
     padding: 30px;
     clear: both;
@@ -198,3 +203,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer Styles End Here */
