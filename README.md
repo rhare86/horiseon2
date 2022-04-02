@@ -13,7 +13,8 @@ In this project I:
 
     Live site address:
     https://rhare86.github.io/horiseon2/
-
-    ![](images/Mock%20Up.png)
+    
+   <img src= "/assets/images/Mock%20Up.png">
+    
      
 
